@@ -29,4 +29,4 @@ Use [our customizable](https://www.easysendsms.com/developers) Friendly bulk SMS
 Feel free to [contact us](https://www.easysendsms.com/contact-us),Our support representatives are available round the clock via live chat, Skype, Email.
 
 
-## [Try it for free](https://www.easysendsms.com/register)
+#### [Try it for free](https://www.easysendsms.com/register)
