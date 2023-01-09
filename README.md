@@ -13,9 +13,9 @@ Mobile users in the world today are more than before. Means if you are not alrea
   - Send important updates OTP, Verifications, online events.
   - Send reminders for meetings.
 
-## Easy Send SMS provides you with everything from a high-quality bulk SMS messaging service
+#### Easy Send SMS provides you with everything from a high-quality bulk SMS messaging service
 
-## International Service
+##### International Service
 [Check](https://www.easysendsms.com/countries-list) our bulk SMS coverage list, we cover more than 188 countries and more than 1100 mobile network.
 
 ## Bulk SMS
