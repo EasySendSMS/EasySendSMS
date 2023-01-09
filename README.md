@@ -13,19 +13,20 @@ Mobile users in the world today are more than before. Means if you are not alrea
   - Send important updates OTP, Verifications, online events.
   - Send reminders for meetings.
 
-#### Easy Send SMS provides you with everything from a high-quality bulk SMS messaging service
 
-##### International Service
+### Easy Send SMS provides you with everything from a high-quality bulk SMS messaging service
+
+#### International Service
 [Check](https://www.easysendsms.com/countries-list) our bulk SMS coverage list, we cover more than 188 countries and more than 1100 mobile network.
 
-## Bulk SMS
+#### Bulk SMS
 A technology lets you send ,hundreds,even millions of SMS at a time to phone numbers [with 1 click](https://www.easysendsms.com/bulksms).
 
-## API
+#### API
 Use [our customizable](https://www.easysendsms.com/developers) Friendly bulk SMS API for instant delivery of your messages all over the world.
 
-## 24/7 SUPPORT
+#### 24/7 SUPPORT
 Feel free to [contact us](https://www.easysendsms.com/contact-us),Our support representatives are available round the clock via live chat, Skype, Email.
 
 
-### [Try it for free](https://www.easysendsms.com/register)
+## [Try it for free](https://www.easysendsms.com/register)
